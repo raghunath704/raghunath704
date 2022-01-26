@@ -1,4 +1,4 @@
-### Hi there 👋, I am Raghunath
+# Hi there 👋, I am Raghunath
  I am Passionate about new Technologies
 
 Skills: Android | Java | MVVM |
