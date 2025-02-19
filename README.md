@@ -1,2 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghunath704&show_icons=true&theme=discord_old_blurple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghunath704&layout=compact)
+# Hi, I'm Raghunath 👋
+
+A passionate and versatile developer proficient in **Java**, **JavaScript**, and **C++**.  I enjoy building robust and efficient solutions across the stack, from backend systems to frontend experiences.  Always eager to learn and contribute to innovative projects.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghunath704&hide_progress=true)
+
+
+Let's connect on [Linkedin](https://www.linkedin.com/in/raghunathdas/) and [X](https://www.x.com/raghunath704/)
