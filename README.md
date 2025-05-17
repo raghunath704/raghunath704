@@ -10,12 +10,6 @@
 -  Feel free to ask me about my experiences with DSA, problem solving, or any tech-related topics.
 -  How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/raghunathdas) or [X](https://www.x.com/raghunath704).
 
-### Skills & Technologies :
-
-- **Languages:** Java, JavaScript, C++
-- **Frameworks & Libraries:** Node.js, React, Spring Boot
-- **Interests:** Data Structures & Algorithms, Problem Solving, AI Application Development, Full-Stack Development
-
 ### Projects :
 
 Here are a few projects from my GitHub:
@@ -25,6 +19,14 @@ Here are a few projects from my GitHub:
 - **[HealthX](https://github.com/raghunath704/HealthX):** A Java-based health and wellness application.
 - **[GymX](https://github.com/raghunath704/GymX):** An exercise/gym app built with React.
 - **[SumAI](https://github.com/raghunath704/SumAI):** An AI-powered article summarization app using OpenAI GPT.
+
+### Skills & Technologies :
+
+- **Languages:** Java, JavaScript, C++
+- **Frameworks & Libraries:** Node.js, React, Spring Boot
+- **Interests:** Data Structures & Algorithms, Problem Solving, AI Application Development, Full-Stack Development
+
+
 
 
 
