@@ -1,15 +1,6 @@
 # Hi, I'm Raghunath!
 
 ### I am a softwere enginner. I have hands-on experience in **Java**, **JavaScript**, **Node.js**, **React**, and **Spring Boot**. I also love diving into DSA and problem solving.
-
-### About Me :
-
--  I’m currently focused on building robust applications in Java and exploring the latest in web development.
--  I’m always learning new technologies and techniques in software development.
--  I’m open to collaborating on innovative projects across Java, JavaScript, Node.js, React, and Spring Boot.
--  Feel free to ask me about my experiences with DSA, problem solving, or any tech-related topics.
--  How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/raghunathdas) or [X](https://www.x.com/raghunath704).
-
 ### Projects :
 
 Here are a few projects from my GitHub:
@@ -22,9 +13,9 @@ Here are a few projects from my GitHub:
 
 ### Skills & Technologies :
 
-- **Languages:** Java, JavaScript, C++
-- **Frameworks & Libraries:** Node.js, React, Spring Boot
-- **Interests:** Data Structures & Algorithms, Problem Solving, AI Application Development, Full-Stack Development
+- **Languages:** Java, JavaScript, C#, C++
+- **Frameworks & Libraries:** Node.js, React, Spring Boot , .NET
+- **Interests:** Data Structures & Algorithms, Problem Solving, AI Application Development
 
 
 
