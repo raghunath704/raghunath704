@@ -1,6 +1,6 @@
 # Hi, I'm Raghunath!
 
-### I am a softwere enginner. I have hands-on experience in **Java**, **JavaScript**, **Node.js**, **React**, and **Spring Boot**. I also love diving into DSA and problem solving.
+### I am a softwere enginner. I have hands-on experience in **Java**, **Spring Boot**, **JavaScript**, **Node.js** and **React**. I also love diving into DSA and problem solving.
 ### Projects :
 
 Here are a few projects from my GitHub:
